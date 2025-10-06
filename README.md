@@ -1,6 +1,6 @@
 # 📊 Project Alpha – Sales & Promo Insights
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](https://raw.githubusercontent.com/OkaforChukwuka/project-alpha-sales-promo-insights/refs/heads/main/Screenshot%202025-10-05%20002224.png)
 
 ## 🚀 Project Overview
 Project Alpha is a **business intelligence dashboard** designed to uncover key insights about **sales performance and promotional strategies**.  
@@ -37,7 +37,7 @@ Built using **Excel, Power BI, and SQL**, this project demonstrates data prepara
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](https://raw.githubusercontent.com/OkaforChukwuka/project-alpha-sales-promo-insights/refs/heads/main/Screenshot%202025-10-05%20002224.png)
 
 ---
 
